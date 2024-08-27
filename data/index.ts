@@ -1,7 +1,8 @@
 export const navItems = [
+  { name: "Home", link: "#" },
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  // { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -169,28 +170,28 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Junior Frontend Engineer - Goalspaces",
+    title: "Frontend Engineer - Goalspaces",
     desc: "Assisted in the development of a web-based platform using next.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "junior Frontend Engineer - Linktech Group",
+    title: "Frontend Engineer - Linktech Group",
     desc: "Designed and developed web apps for various clients using next.js.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Frontend Engineer (intern)- SleengShort NG",
+    title: "Frontend Engineer - SleengShort NG",
     desc: "designed and developed a new user interface and front view for the company's website, enhancing the overall user experience and aligning the design with modern web standards.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Frontend Engineer (intern) - Systemspec Deelaa NG",
+    title: "Frontend Engineer - Systemspec Deelaa NG",
     desc: "Collaborate with senior developers to create and maintain user interfaces using HTML, CSS, and JavaScript.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
