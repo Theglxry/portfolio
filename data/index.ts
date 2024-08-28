@@ -86,7 +86,7 @@ export const projects = [
     des: "user-friendly e-commerce platform for a jewelry company, focusing on a visually stunning design, seamless navigation, and secure transaction processes to enhance the online shopping experience",
     img: "/rw.webp",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://rw-luxury-fe.vercel.app/",
+    link: "https://rwluxury.com/",
   },
   {
     id: 3,
